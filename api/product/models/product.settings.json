@@ -50,15 +50,6 @@
     "categories": {
       "via": "products",
       "collection": "category"
-    },
-    "featured": {
-      "type": "enumeration",
-      "enum": [
-        "colecao",
-        "novidades",
-        "destaques",
-        "promocao"
-      ]
     }
   }
 }
